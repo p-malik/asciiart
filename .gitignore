@@ -1,0 +1,8 @@
+# Intellij
+*.ipr
+*.iws
+*.iml
+.idea/
+
+target/
+map-img.png
